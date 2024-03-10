@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": "1s49",
+        "ticket": {
+            "eventName": "Ramadan day",
+            "eventDateTime": "03/10/2024 15:27",
+            "venue": "Mosque",
+            "contactPhone": "+998904726929",
+            "seat": "1"
+        }
+    },
+    {
+        "id": "WQHN",
+        "ticket": {
+            "eventName": "Navruz holiday",
+            "eventDateTime": "21/03/2024 17:21",
+            "venue": "Stadium near college",
+            "contactPhone": "+998902584545",
+            "seat": "2"
+        }
+    }
+]
